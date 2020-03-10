@@ -1,6 +1,5 @@
 public class ContractedEmployee extends Employee {
   String federalTaxId;
-  //
   double hourlyRate;
   double numberOfHoursWorked;
 
